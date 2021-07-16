@@ -1,4 +1,5 @@
 import React from 'react'
+import Hero from './MiniComponents/Home/Hero'
 import Navbar from './MiniComponents/Home/Navbar'
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
 				backgroundPosition: 'center'
 			}}>
 			<Navbar />
+			<Hero />
 		</div>
 	)
 }
