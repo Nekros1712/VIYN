@@ -5,13 +5,16 @@ import Home from './Components/Home'
 import MobileApp from './Components/MobileApp'
 
 function App() {
+
 	return (
-		<>
-			<Home />
-			<About />
-			<MobileApp />
-			<Contact />
-		</>
+		<div
+			className="h-screen overflow-y-scroll overflow-x-hidden"
+			style={{ scrollSnapType: 'y mandatory' }}>
+				<Home />
+				<About />
+				<MobileApp />
+				<Contact />
+		</div>
 	)
 }
 
