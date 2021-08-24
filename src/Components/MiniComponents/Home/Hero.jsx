@@ -11,7 +11,7 @@ const Hero = () => {
 				new world of
 				<br />
 				electr
-				<Flash /> c scooters
+				<Flash />c scooters
 			</div>
 			<button className="text-xl sm:text-2xl text-white bg-green-500 px-4 py-2 sm:px-5 sm:py-3 rounded-full mt-4 outline-none">
 				Know More&nbsp;&nbsp;
