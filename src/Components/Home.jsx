@@ -10,7 +10,8 @@ const Home = () => {
 				backgroundImage:
 					'url(https://images.unsplash.com/photo-1589308454676-06c69786e24c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1575&q=80)',
 				backgroundSize: 'cover',
-				backgroundPosition: 'center'
+				backgroundPosition: 'center',
+				scrollSnapAlign: 'center'
 			}}>
 			<Navbar />
 			<Hero />

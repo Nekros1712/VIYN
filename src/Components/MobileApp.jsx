@@ -7,7 +7,11 @@ import Logo from '../Assets/Logo'
 
 const MobileApp = () => {
 	return (
-		<div className="w-screen h-screen bg-primary flex flex-col-reverse md:flex-row justify-evenly items-center px-10">
+		<div
+			className="w-screen h-screen bg-primary flex flex-col-reverse md:flex-row justify-evenly items-center px-10"
+			style={{
+				scrollSnapAlign: 'center'
+			}}>
 			<div className="flex flex-col">
 				<span className="md:-ml-32">
 					<Logo />
