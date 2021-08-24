@@ -6,7 +6,8 @@ import {
 	Twitter,
 	Facebook,
 	Copyright,
-	FooterLogo
+	FooterLogo,
+	Behance
 } from '../../../Assets/Icons'
 
 const Footer = () => {
@@ -19,10 +20,18 @@ const Footer = () => {
 							Our Socials: VIYN
 						</span>
 						<div className="w-full flex justify-center items-center">
-							<LinkedIn />
-							<Instagram />
-							<Twitter />
-							<Facebook />
+							<a target="_new" href="https://google.com">
+								<Twitter />
+							</a>
+							<a target="_new" href="https://google.com">
+								<Facebook />
+							</a>
+							<a target="_new" href="https://google.com">
+								<LinkedIn />
+							</a>
+							<a target="_new" href="https://google.com">
+								<Instagram />
+							</a>
 						</div>
 					</div>
 					<div className="w-full h-1/2 flex flex-col justify-center items-center">
@@ -30,9 +39,18 @@ const Footer = () => {
 							Developed By: Samprit JC
 						</span>
 						<div className="w-full flex justify-center items-center">
-							<Github />
-							<LinkedIn />
-							<Instagram />
+							<a target="_new" href="https://github.com/Nekros1712">
+								<Github />
+							</a>
+							<a target="_new" href="https://behance.net/sampritchauras">
+								<Behance />
+							</a>
+							<a target="_new" href="https://linkedin.com/user/sampritchaurasiya1712">
+								<LinkedIn />
+							</a>
+							<a target="_new" href="https://instagram.com/samprit1712">
+								<Instagram />
+							</a>
 						</div>
 					</div>
 				</div>
