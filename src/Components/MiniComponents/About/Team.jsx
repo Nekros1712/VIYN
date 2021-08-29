@@ -12,25 +12,25 @@ const Team = () => {
 					<div className="w-full h-32 flex justify-between">
 						<MemberCard
 							name="Smit Nalawde"
-							designation="marketing mgr"
-							imgURL="url(https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80)"
+							designation="business head"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1630263662/viyn/smit_rkpxhl.png)"
 						/>
 						<MemberCard
-							name="Smit Nalawde"
-							designation="product designer"
-							imgURL="url(https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)"
+							name="Sarvesh Vichare"
+							designation="tech head"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1630263662/viyn/sarvesh_bv2mxo.png)"
 						/>
 					</div>
 					<div className="w-full h-32 flex justify-between">
 						<MemberCard
-							name="Smit Nalawde"
+							name="Dwij Iyer"
 							designation="product designer"
 							imgURL="url(https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)"
 						/>
 						<MemberCard
-							name="Smit Nalawde"
-							designation="automobile engg"
-							imgURL="url(https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)"
+							name="Paras Patil"
+							designation="app dev lead"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1630263662/viyn/paras_xtwn3x.jpg)"
 						/>
 					</div>
 				</div>
