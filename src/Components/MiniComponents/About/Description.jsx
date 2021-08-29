@@ -8,12 +8,11 @@ const Description = () => {
 				<div>
 					<LogoSm />
 					<span className="italic sm:text-lg lg:text-2xl">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Eu consequat phasellus in faucibus purus, eget orci.
-						Amet tellus faucibus maecenas magna. Nam augue tempor
-						sodales orci. Aliquet diam leo, luctus viverra laoreet
-						dictumst. Justo, elementum, id cursus nunc, vitae.
-						Ullamcorper molestie enim nunc, amet nisi neque leo.
+						VIYN Mobility is a rideshare electric micro-mobility
+						service which you can opt for first and last mile
+						transit, whether to reach your office or college or
+						maybe even just going a short distance, VIYN Mobility is
+						making it hassle-free, Just Scan and start the ride.
 					</span>
 				</div>
 			</div>
