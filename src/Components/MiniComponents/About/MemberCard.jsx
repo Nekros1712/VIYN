@@ -11,7 +11,7 @@ const MemberCard = props => {
 						backgroundPosition: 'center',
 						backgroundSize: 'cover'
 					}}></div>
-				<span className="font-semibold text-lg lg:text-2xl mt-4 mx-auto">
+				<span className="font-semibold text-md lg:text-2xl mt-4 mx-auto">
 					{props.name}
 				</span>
 				<span className="font-thin lg:text-xl text-green-500 italic mx-auto">
