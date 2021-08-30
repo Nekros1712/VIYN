@@ -1,13 +1,11 @@
 import React from 'react'
 import App1 from '../Assets/App1.svg'
-// import App2 from '../Assets/App2.svg'
-// import App3 from '../Assets/App3.svg'
-// import App4 from '../Assets/App4.svg'
 import Logo from '../Assets/Logo'
 
 const MobileApp = () => {
 	return (
 		<div
+			id="service"
 			className="w-screen h-screen bg-primary flex flex-col-reverse md:flex-row justify-evenly items-center px-10"
 			style={{
 				scrollSnapAlign: 'center'
@@ -26,7 +24,7 @@ const MobileApp = () => {
 					</svg>
 					<span className="ml-4 flex items-start flex-col leading-none">
 						<span className="text-xs text-gray-500 mb-1">
-							GET IT ON
+							Coming soon on
 						</span>
 						<span className="title-font text-white font-medium">
 							Google Play
@@ -44,7 +42,7 @@ const MobileApp = () => {
 					</svg>
 					<span className="ml-4 flex items-start flex-col leading-none">
 						<span className="text-xs text-gray-500 mb-1">
-							Download on the
+							Also on
 						</span>
 						<span className="title-font text-white font-medium">
 							App Store

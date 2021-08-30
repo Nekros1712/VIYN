@@ -4,9 +4,11 @@ import ContactUs from './MiniComponents/Contact/ContactUs'
 import Feedback from './MiniComponents/Contact/Feedback'
 import Footer from './MiniComponents/Contact/Footer'
 
-const Contact = () => {
+const Contact = (props) => {
 	return (
 		<div
+			ref={props.scrollHere}
+			id="contact"
 			className="w-screen h-screen bg-primary"
 			style={{
 				scrollSnapAlign: 'center'
