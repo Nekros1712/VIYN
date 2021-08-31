@@ -95,7 +95,7 @@ export const Address = () => {
 					href="https://goo.gl/maps/LaVFNbfwpzgxojRn9"
 					target="_new"
 					className="no-underline">
-					Address
+					Reg. Address
 				</a>
 			</span>
 			<span className="hidden md:block ml-4 text-xl lg:text-2xl">
@@ -103,11 +103,11 @@ export const Address = () => {
 					href="https://goo.gl/maps/LaVFNbfwpzgxojRn9"
 					target="_new"
 					className="no-underline">
-					69, Street 420,
+					Suraj Res., Plot 15,
 					<br />
-					Sector-12, <span className="text-green-500">Nerul</span>,
+					Sector-10E, <span className="text-green-500">Kalamboli</span>,
 					<br />
-					Navi Mumbai - 400067
+					Navi Mumbai - 410218
 				</a>
 			</span>
 		</div>

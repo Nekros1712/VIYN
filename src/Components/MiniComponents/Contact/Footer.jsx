@@ -26,10 +26,14 @@ const Footer = () => {
 							<a target="_new" href="https://google.com">
 								<Facebook />
 							</a>
-							<a target="_new" href="https://google.com">
+							<a
+								target="_new"
+								href="https://www.linkedin.com/company/viyn-mobility/">
 								<LinkedIn />
 							</a>
-							<a target="_new" href="https://google.com">
+							<a
+								target="_new"
+								href="https://www.instagram.com/viyn_ev/">
 								<Instagram />
 							</a>
 						</div>
@@ -39,16 +43,24 @@ const Footer = () => {
 							Developed By: Samprit JC
 						</span>
 						<div className="w-full flex justify-center items-center">
-							<a target="_new" href="https://github.com/Nekros1712">
+							<a
+								target="_new"
+								href="https://github.com/Nekros1712">
 								<Github />
 							</a>
-							<a target="_new" href="https://behance.net/sampritchauras">
+							<a
+								target="_new"
+								href="https://behance.net/sampritchauras">
 								<Behance />
 							</a>
-							<a target="_new" href="https://linkedin.com/user/sampritchaurasiya1712">
+							<a
+								target="_new"
+								href="https://linkedin.com/user/sampritchaurasiya1712">
 								<LinkedIn />
 							</a>
-							<a target="_new" href="https://instagram.com/samprit1712">
+							<a
+								target="_new"
+								href="https://instagram.com/samprit1712">
 								<Instagram />
 							</a>
 						</div>
