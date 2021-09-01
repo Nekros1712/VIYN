@@ -2,7 +2,7 @@ import React from 'react'
 import Hero from './MiniComponents/Home/Hero'
 import Navbar from './MiniComponents/Home/Navbar'
 
-const Home = (props) => {
+const Home = ({ aboutRef, mobileRef, contactRef }) => {
 	return (
 		<div
 			className="relative h-screen w-screen flex flex-col justify-between"
@@ -13,8 +13,8 @@ const Home = (props) => {
 				backgroundPosition: 'center',
 				scrollSnapAlign: 'center'
 			}}>
-			<Navbar scroll={props.joinUsRef} />
-			<Hero scroll={props.knowMoreRef} />
+			<Navbar about={aboutRef} mobile={mobileRef} contact={contactRef} />
+			<Hero scroll={contactRef} />
 		</div>
 	)
 }

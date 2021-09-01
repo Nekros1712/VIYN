@@ -2,10 +2,10 @@ import React from 'react'
 import App1 from '../Assets/App1.svg'
 import Logo from '../Assets/Logo'
 
-const MobileApp = () => {
+const MobileApp = (props) => {
 	return (
 		<div
-			id="service"
+			ref={props.scrollHere}
 			className="w-screen h-screen bg-primary flex flex-col-reverse md:flex-row justify-evenly items-center px-10"
 			style={{
 				scrollSnapAlign: 'center'

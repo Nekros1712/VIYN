@@ -8,7 +8,6 @@ const Contact = (props) => {
 	return (
 		<div
 			ref={props.scrollHere}
-			id="contact"
 			className="w-screen h-screen bg-primary"
 			style={{
 				scrollSnapAlign: 'center'
