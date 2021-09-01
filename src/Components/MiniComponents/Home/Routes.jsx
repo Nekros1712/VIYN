@@ -25,14 +25,14 @@ const Routes = ({aboutRef, mobileRef, contactRef}) => {
 			<ul
 				type="none"
 				className="flex text-white text-lg font-normal sm:text-xl mt-2">
-				<li className="px-4 font-semibold">Home</li>
-				<li onClick={gotoAbout} className="px-4 font-semibold">
+				<li className="px-4 font-semibold cursor-pointer">Home</li>
+				<li onClick={gotoAbout} className="px-4 font-semibold cursor-pointer">
 					About
 				</li>
-				<li onClick={gotoServices} className="px-4 font-semibold">
+				<li onClick={gotoServices} className="px-4 font-semibold cursor-pointer">
 					Services
 				</li>
-				<li onClick={gotoContact} className="px-4 font-semibold">
+				<li onClick={gotoContact} className="px-4 font-semibold cursor-pointer">
 					Contact
 				</li>
 			</ul>
