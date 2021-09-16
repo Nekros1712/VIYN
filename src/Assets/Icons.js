@@ -40,7 +40,7 @@ export const WavingHand = () => {
 export const Mail = () => {
 	return (
 		<div className="flex flex-col md:flex-row md:items-center md:justify-start md:my-4 justify-center items-center">
-			<a href="mailto:viynmobility@gmail.com" className="no-underline">
+			<a href="mailto:connect@viyn.in" className="no-underline">
 				<svg
 					width="23"
 					height="23"
@@ -61,11 +61,9 @@ export const Mail = () => {
 				</a>
 			</span>
 			<span className="hidden md:block ml-4 text-xl lg:text-2xl">
-				<a
-					href="mailto:viynmobility@gmail.com"
-					className="no-underline">
-					viynmobility@<span className="text-green-500">gmail</span>
-					.com
+				<a href="mailto:connect@viyn.in" className="no-underline">
+					connect@<span className="text-green-500">viyn</span>
+					.in
 				</a>
 			</span>
 		</div>
