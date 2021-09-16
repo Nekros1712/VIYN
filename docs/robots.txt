@@ -1,4 +1,3 @@
-Sitemap: https://www.viyn.in/sitemap.xml
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
