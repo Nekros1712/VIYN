@@ -13,7 +13,7 @@ const Team = () => {
 						<MemberCard
 							name="Smit Nalawde"
 							designation="business head"
-							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1630263662/viyn/smit_rkpxhl.png)"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1633802126/viyn/smit_ifq0xg.jpg)"
 						/>
 						<MemberCard
 							name="Sarvesh Vichare"
@@ -25,7 +25,7 @@ const Team = () => {
 						<MemberCard
 							name="Dwij Iyer"
 							designation="product designer"
-							imgURL="url(https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG1hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1633802127/viyn/dwij_dmnf56.jpg)"
 						/>
 						<MemberCard
 							name="Paras Patil"
