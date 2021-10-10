@@ -13,7 +13,7 @@ const Team = () => {
 						<MemberCard
 							name="Smit Nalawde"
 							designation="business head"
-							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1633802126/viyn/smit_ifq0xg.jpg)"
+							imgURL="url(https://res.cloudinary.com/dg7anvkkr/image/upload/v1633895984/viyn/smit_ifq0xg.jpg)"
 						/>
 						<MemberCard
 							name="Sarvesh Vichare"
