@@ -33,7 +33,7 @@ const Footer = () => {
 							</a>
 							<a
 								target="_new"
-								href="https://www.instagram.com/viyn_ev/">
+								href="https://www.instagram.com/viyn.in/">
 								<Instagram />
 							</a>
 						</div>
